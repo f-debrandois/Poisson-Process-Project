@@ -16,6 +16,8 @@ This study was inspired by the work of **Bain, Engelhardt, and Wright**.
 - 📜 **[Report.pdf](./Report.pdf)** – The full report detailing the theoretical background, methodology, and findings.  
 - 📊 **[Numerical_Results.pdf](./Numerical_Results.pdf)** – The results of numerical simulations comparing different statistical tests.  
 
+The code is available in the **[dev branch](https://github.com/f-debrandois/Poisson-Process-Project/tree/dev)**.
+
 ## 👥 Authors  
 
 - [@f-debrandois](https://github.com/f-debrandois)  
