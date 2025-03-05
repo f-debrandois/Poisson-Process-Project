@@ -2,9 +2,6 @@
 __pycache__/
 _build/
 
-src/
-
-*.cls
 *.aux
 *.bbl
 *.bcf
@@ -17,8 +14,6 @@ src/
 *.synctex.gz
 *.toc
 *.lof
-*.tex
-*.bib
 .Rhistory
 
 *.toml
