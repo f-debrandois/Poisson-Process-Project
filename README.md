@@ -13,8 +13,8 @@ This study was inspired by the work of **Bain, Engelhardt, and Wright**.
 
 ## 📄 Project Files  
 
-- 📜 **[Report.pdf](./Report.pdf)** – The full report detailing the theoretical background, methodology, and findings.  
-- 📊 **[Numerical_Results.pdf](./Numerical_Results.pdf)** – The results of numerical simulations comparing different statistical tests.  
+- 📜 **[Report.pdf](./Report/Report.pdf)** – The full report detailing the theoretical background, methodology, and findings.  
+- 📊 **[Numerical_Results.pdf](./Simulations/Numerical_Results.pdf)** – The results of numerical simulations comparing different statistical tests.  
 
 ## 👥 Authors  
 
